@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.authlogin_pages {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url(./components/Assets/4.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.notifycontents{
+  position: absolute;
+  background: #18315363;
+  top: 30px;
+  left: 0;
+  padding: 10px;
+  z-index: 999;
+  min-width: 225px;
+}
+
+.notifycontents p{
+font-size: 12px;
+color: #F8F9FA;
+}
+
+.flex_admin{
+  display: flex;
+  background: rgba(0, 0, 255, 0.562);
+  color: aliceblue;
+margin-left: 15px;
+}
+
+.flex_admin:hover{
+  background: rgba(0, 0, 255, 0.144);
+  color: rgba(0, 0, 255, 0.747);
+}
+
+.ghjjjs-text{
+  background: #0d559cab;
+}
+
+.jkkky_color{
+  color: #F8F9FA;
+}
+.jkkky_color:hover{
+  color: #b9c4cfbe;
+}
+
+.jkkky_color:focus{
+  color: #b9c4cfbe;
+}
+.text-hlkkj-gray{
+  color: rgb(204, 201, 201);
+}
+
+.bg-hkj-subMain{
+  background: #001B5A;
+}
+
+.border-hkj-subMain{
+  border: 1px solid rgba(0, 0, 0, 0.219);
+}
+.text-hkj-subMain{
+  color: #a2a8ad;
+}
